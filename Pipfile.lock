@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "00325878bc3b5a7d6590dfde24004faf52e8621c9af4655e5b8475e86b540044"
+            "sha256": "c76512d793da5ae26144fd6eefeba3750409a1bb348e86dd544c52cf0cdd3578"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,21 @@
         ]
     },
     "default": {
+        "pickledb": {
+            "hashes": [
+                "sha256:ec6973e65d7d112849e78ce522840aa908efb2523470bb8ce5c7942310192240"
+            ],
+            "index": "pypi",
+            "version": "==0.9.2"
+        },
+        "tinydb": {
+            "hashes": [
+                "sha256:1b8d7308ba2fe6d582c6ae69f33c62013053939f7ab8d1787b1e15950566a202",
+                "sha256:68eb9d1b32931ea657319c7dff70c0d735fc10ecbde29c824a2a5e1333b8ed49"
+            ],
+            "index": "pypi",
+            "version": "==4.1.1"
+        },
         "tornado": {
             "hashes": [
                 "sha256:0fe2d45ba43b00a41cd73f8be321a44936dc1aba233dee979f17a042b83eb6dc",
