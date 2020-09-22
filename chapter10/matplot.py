@@ -19,5 +19,3 @@ if __name__ == '__main__':
     plt.ylabel("ARG Value", fontsize=14)
     plt.tick_params(axis='both', labelsize=10)      # 设置单位刻度的大小
     plt.show()
-
-    # 自定义散点图样式
