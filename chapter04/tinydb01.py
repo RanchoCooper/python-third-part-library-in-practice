@@ -18,4 +18,4 @@ if __name__ == '__main__':
     db.remove(where('age') > 20)
 
     # 清空数据库
-    db.purge()
+    # db.purge()
